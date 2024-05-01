@@ -1,0 +1,43 @@
+encoding  utf-8
+
+survey k90 -title "5K90 Sunglasses Cave"
+    input data\k90\k90-trip20221016.th2
+
+    centerline
+    date 2022.10.16
+
+    declination -8.660 degrees
+
+    team "Matt Smith" pictures
+    team "Minky Cockshell" notes
+    team "Janice Chan" compass clino tape
+    
+    data normal from to length compass clino
+    K90S1 	22JC06	0.8		289.3	-14.2
+    #22JC06	22JC07	3.71	87.2	1.5
+    22JC07	22JC08	4.56	20.9	-11.2	
+    22JC08	22JC09	2.60	323.8	-60.5	# >30 flies, 1 frog, animal dung
+    22JC09	22JC10	4.99	268.1	10.1	#
+    #22JC09	22JC11	3.6	    2.5	    4.1				#Suspicious leg. Data does not match sketch.  Likely the compass is wrong
+    22JC11	22JC10	1.86	305.6	16.9	
+    22JC11	K90S1	5.05	189.9	9.9	
+    22JC10	22JC01	0.71	242.8	17.0	
+    22JC10	22JC12	5.59	46.3	-24.0	# spiders approximately 2
+    22JC13	22JC12	2.06	314.4	10.1	# wallaby skull
+    22JC13	22JC09	2.48	188.2	43.6	
+    22JC09	22JC14	3.46	55.6	-42.1	
+    22JC14	22JC13	2.00	279.8	13.4	
+    22JC15	22JC09	4.96	263.9	36.0	
+
+    endcenterline
+endsurvey
+
+
+map defaultPlanMap -projection plan
+  trip20221016@k90   #Pulls planScrap from the survey "defaultSurvey" (which is in caveSketch.th2)
+endmap
+
+#map defaultProfMap -projection elevation
+#  profileScrap@defaultSurvey
+#endmap
+
