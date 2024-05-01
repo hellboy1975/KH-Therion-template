@@ -1,0 +1,5 @@
+.xtherion.dat
+therion.log
+*.code-workspace
+/data
+/output
