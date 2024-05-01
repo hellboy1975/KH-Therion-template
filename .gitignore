@@ -1,5 +1,8 @@
 .xtherion.dat
 therion.log
 *.code-workspace
-/data
+data/*
+# keep k90 as an example
+!data/k90
+!data/k90/*
 /output
