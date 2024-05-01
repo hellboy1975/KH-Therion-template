@@ -1,7 +1,11 @@
 encoding  utf-8
-source data\k90\k90.th  #!!#EDIT THIS REFERENCE CORRECT .TH#!!#
+
+# set this value to the .th file of the cave you want to compile
+source data\k90\k90.th  
+
 input "Symbolset_SASC.thconfig"
 
+# use this section to tweak any configurations for all outputs
 layout defaults
   cs lat-long
   north true
