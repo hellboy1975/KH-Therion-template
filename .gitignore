@@ -6,3 +6,4 @@ data/*
 !data/k90
 !data/k90/*
 /output
+data/k90/therion.log
