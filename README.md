@@ -19,7 +19,7 @@ Depending on your operating system you have a few options:
 
 1. Download the installer via Windows [https://therion.speleo.sk/download.php]
 2. Install via your Linux package manager
-2.1 For Ubuntu `sudo apt install therion`
+    1. For Ubuntu `sudo apt install therion`
 
 Note: the package manager appears to be either out of date (Ubuntu), or not working at all (Fedora) in my experience.  For the brave, [Github](https://github.com/therion/therion) allows you to clone and build the code yourself.
 
