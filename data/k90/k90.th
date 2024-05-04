@@ -1,6 +1,6 @@
 encoding  utf-8
 
-survey k90 -title "5K90 Sunglasses Cave"
+survey k90 -title "5K90 Sunglasses Cave" -entrance K90S1
     input data\k90\k90-trip20221016.th2
 
     centerline
@@ -11,6 +11,10 @@ survey k90 -title "5K90 Sunglasses Cave"
     team "Matt Smith" pictures
     team "Minky Cockshell" notes
     team "Janice Chan" compass clino tape
+
+    station K90S1 "Main entrance" entrance
+    #station K90S2 "Dodgy tube" entrance
+    #station K90S3 "Inaccesible entrance - could be dug" entrance
     
     data normal from to length compass clino
     K90S1 	22JC06	0.8		289.3	-14.2
