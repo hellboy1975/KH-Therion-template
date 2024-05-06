@@ -23,7 +23,7 @@ Depending on your operating system you have a few options:
 
 Note: the package manager appears to be either out of date (Ubuntu), or not working at all (Fedora) in my experience.  For the brave, [Github](https://github.com/therion/therion) allows you to clone and build the code yourself.
 
-**Alternative**: For linux users struggling somewhat, Therion works weel under [WINE](https://www.winehq.org/).
+**Alternative**: For linux users struggling somewhat, Therion works well under [WINE](https://www.winehq.org/).
 
 ## Credits
 Thanks to Greenman126 for his excellent template and video tutorial:
