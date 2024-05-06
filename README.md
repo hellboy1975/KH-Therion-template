@@ -34,4 +34,5 @@ Thanks to Greenman126 for his excellent template and video tutorial:
 ## Useful resources
 
 - [ASF Cave Map Symbols](https://caves.org.au/resources/)
-- [UIS Cave Map Symbols](https://www.carto.net/neumann/caving/cave-symbols/uis_signatures_english.pdf)
+- [Interactive UIS Cave Map symbols](https://www.carto.net/neumann/caving/cave-symbols/cave_symbol.php?languageSelection=english)
+- [Survex](https://survex.com/)
