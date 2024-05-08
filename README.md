@@ -31,6 +31,11 @@ Thanks to Greenman126 for his excellent template and video tutorial:
 - https://github.com/Greenman126/Therion-Template-and-builder/blob/main/caveSketch.th2
 - https://www.youtube.com/watch?v=nBhx0gRTJb0
 
+Also, much thanks to the team at the Tanguy RACINE channel for their great tutorials, as well as advice on how to work with (VS Code)[https://marketplace.visualstudio.com/items?itemName=rhystyers.therion] and (Inkscape)[https://github.com/speleo3/inkscape-speleo/]:
+
+- https://youtu.be/9U3bYYKxrcM?si=7rXR-BiMzzaaDneW
+- https://github.com/tr1813/migresurvey
+
 ## Useful resources
 
 - [ASF Cave Map Symbols](https://caves.org.au/resources/)
